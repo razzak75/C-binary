@@ -25,15 +25,6 @@ input::placeholder, textarea::placeholder{
     width: 50%;
 }
 
-.personal{
-    padding: 200px;
-    background-image: url("/files/bg.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
 /* Media query */
 @media screen and (max-width: 768px) {
     .contact-right{
