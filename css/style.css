@@ -27,7 +27,7 @@ input::placeholder, textarea::placeholder{
 
 .personal{
     padding: 200px;
-    background-image: url("/files/bg.png");
+    background-image: url("../files/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
