@@ -7,7 +7,7 @@ body{
 }
 
 .navbar{
-    background-color: #201f28;}
+    background-image: url("../files/navbarBG.webp");}
 
 .myshadow{
     box-shadow: 0 4px 20px rgb(64 64 64 / 80%);
@@ -25,18 +25,6 @@ input::placeholder, textarea::placeholder{
     width: 50%;
 }
 
-<<<<<<< HEAD
-=======
-.personal{
-    padding: 200px;
-    background-image: url("../files/bg.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
->>>>>>> e094811dedb0de72a1d35c2447fbc9af41e831d3
 /* Media query */
 @media screen and (max-width: 768px) {
     .contact-right{
